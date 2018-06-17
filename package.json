@@ -1,0 +1,26 @@
+{
+  "name": "product_list_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandre-w/product_list_server.git"
+  },
+  "author": "Alexandre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandre-w/product_list_server/issues"
+  },
+  "homepage": "https://github.com/alexandre-w/product_list_server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.5"
+  }
+}
